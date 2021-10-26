@@ -1,4 +1,36 @@
-.row{
-    font-family: 'Courier New', Courier, monospace;
+.row1{
+    float: left;
+    margin: 10px;
+    
+}
 
+.row2{
+    float: left;
+    margin: 10px;
+    
+}
+
+.row3{
+    float: left;
+    margin: 10px;
+    
+}
+
+footer{
+    position: relative;
+    top: 1400px;
+    right: 1000px;
+
+}
+.card{
+    border: 2.5px solid #4b0082;
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+    background-color: #fffaf0;
+}
+
+.agregar-carrito{
+    position: relative;
+    left: 150px;
 }
